@@ -1,0 +1,30 @@
+---
+title: "actividad_1"
+author: "nana_1"
+date: "9 de octubre de 2018"
+output:
+  html_document:  
+    toc: yes
+    theme: readable
+    
+    
+    
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE,
+                      eval = TRUE,
+                      fig.aling="right")
+
+
+```
+# Encabezados con Rmarkdown    
+
+
+Encabezado tipo1 se denota con  #  
+Encabezado tipo 2 se denota con ##  
+Encabezado tipo 3 se denota con ###
+
+## Subtitulo
+
+###Encabezado tipo3
